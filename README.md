@@ -3,7 +3,7 @@
 ## How To Setup
 
 
-1. Clone This Project `git clone https://github.com/shanathvemula/django-eventcalender.git `
+1. Clone This Project `https://github.com/shanathvemula/django_eventcalender.git `
 2. Go to Project Directory `cd django-eventcalender`
 3. Create a Virtual Environment `python3 -m venv env`
 4. Activate Virtual Environment `source env/bin/activate`
